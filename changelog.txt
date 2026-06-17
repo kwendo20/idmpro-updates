@@ -1,1 +1,9 @@
+IDM Pro KWENDO - Changelog
 
+v5.0.1 (2025-06-18)
+✅ Fixed download speed issues
+✅ Improved YouTube download support
+✅ Added new features
+
+v5.0.0 (2025-06-01)
+🎉 Initial release
