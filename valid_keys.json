@@ -1,11 +1,11 @@
 {
   "keys": [
-    "KWENDO-E8CA-1E32-895E",
     "KWENDO-192F-E258-44DA"
   ],
   "revoked": [
-    "KWENDO-783D-F526-90A4"
+    "KWENDO-783D-F526-90A4",
+    "KWENDO-E8CA-1E32-895E"
   ],
-  "revoked_at": "2026-06-18T01:29:10.350241",
-  "reason": "Misussed"
+  "revoked_at": "2026-06-18T16:34:39.031339",
+  "reason": "USING WIHIN TWO MACHINES"
 }
